@@ -41,7 +41,6 @@ Ikuti langkah-langkah berikut untuk menginstal **Darkxy** beserta semua bahan ya
    ```
    
    ```bash
-   pkg install python python3-pip -y
    pip install requests
    ```
 
